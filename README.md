@@ -1,7 +1,10 @@
 # Run Buddy, Inc
 
 ## Description 
-A website that offers fitness training services. 
+A website that offers fitness training services.
+
+## Preview
+[Website!]()
 
 ## Built With
 * HTML5
