@@ -4,7 +4,7 @@
 A website that offers fitness training services.
 
 ## Preview
-[Website!]()
+![Website](./assets/images/run-buddy-preview.PNG?raw=true)
 
 ## Built With
 * HTML5
