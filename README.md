@@ -4,10 +4,10 @@
 A website that offers fitness training services. 
 
 ## Built With
-* HTML
-* CSS
+* HTML5
+* CSS3
 
-## Website
+## Deployed Website
 https://avazque008.github.io/run-buddy/
 
 ## Contribution
